@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-pl5$7ijiab&%48&#pa!dh5dhgc=-!k6h0=f&az+pe+tv*e8idy
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://clinic-p4cr.onrender.com',
+    'clinic-p4cr.onrender.com',
     '127.0.0.1',
     'localhost',
 ]
