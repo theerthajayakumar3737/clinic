@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-pl5$7ijiab&%48&#pa!dh5dhgc=-!k6h0=f&az+pe+tv*e8idy
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://clinic-1-4s5z.onrender.com',
+    'clinic-1-4s5z.onrender.com',
 ]
 
 
