@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'clinic-1-4s5z.onrender.com',
+    '127.0.0.1',
+    'localhost',
 ]
 
 
